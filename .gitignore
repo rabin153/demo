@@ -1,0 +1,4 @@
+# application.log
+
+# Target all log file
+*.log
